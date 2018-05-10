@@ -1,0 +1,14 @@
+{
+  "name": "tasksq",
+  "version": "0.0.0",
+  "description": "tasksq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apcan",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
